@@ -114,7 +114,7 @@ const techStack = [
   },
   {
     category: "Backend",
-    items: ["Node.js", "Express", "NestJS", "Hono"],
+    items: ["Node.js", "Express", "NestJS"],
   },
   {
     category: "Database",
@@ -124,6 +124,7 @@ const techStack = [
     category: "Dev Tools",
     items: ["Git", "GitHub", "Docker"],
   },
+
 ];
 
 const socials = [
