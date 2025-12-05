@@ -77,25 +77,25 @@ const dockApps = [
 const blogPosts = [
   {
     id: 1,
-    date: "Sep 2, 2025",
+    date: "Jul 11, 2024",
     title:
-      "TypeScript Explained: What It Is, Why It Matters, and How to Master It",
+      "The Evolution of Character Encoding: From ASCII to Unicode and Java's Role in Global Language Support",
     image: "/images/blog1.png",
-    link: "https://jsmastery.com/blog/typescript-explained-what-it-is-why-it-matters-and-how-to-master-it",
+    link: "https://abhyudaya764.hashnode.dev/the-evolution-of-character-encoding-from-ascii-to-unicode-and-javas-role-in-global-language-support",
   },
   {
     id: 2,
-    date: "Aug 28, 2025",
-    title: "The Ultimate Guide to Mastering Three.js for 3D Development",
+    date: "Dec 5, 2025",
+    title: "Understanding Prisma: A Comprehensive Guide to Database Management in Modern Applications",
     image: "/images/blog2.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-three-js-for-3d-development",
+    link: "https://abhyudaya764.hashnode.dev/understanding-prisma",
   },
   {
     id: 3,
     date: "Aug 15, 2025",
-    title: "The Ultimate Guide to Mastering GSAP Animations",
+    title: "Document Object Model (DOM) in Web Development: A Deep Dive into Structure, Manipulation, and Best Practices",
     image: "/images/blog3.png",
-    link: "https://jsmastery.com/blog/the-ultimate-guide-to-mastering-gsap-animations",
+    link: "https://abhyudaya764.hashnode.dev/",
   },
 ];
 
@@ -106,7 +106,7 @@ const techStack = [
   },
   {
     category: "Mobile",
-    items: ["React Native", "Expo"],
+    items: ["React Native"],
   },
   {
     category: "Styling",
